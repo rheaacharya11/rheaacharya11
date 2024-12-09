@@ -1,4 +1,4 @@
-## Hi friends! I'm Rhea, a senior at Harvard.
+## Hi friends! I'm Rhea, a senior at Harvard. 🌱
 
 I adore solving problems, creating delightful products, and leveraging technology for good.
 

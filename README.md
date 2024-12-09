@@ -6,7 +6,7 @@ I'm currently...
  ✨ coding in Python for my Machine Learning Fairness & Interpretability research  
  ✨ coding in C++ for my Systems Programming class  
  ✨ coding in p5.js to make interactive data visualizations & games  
- ✨ coding in HTML/CSS/Javascript to work on my personal website: rheaacharya.com
+ ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)
 
 <!--
 **rheaacharya11/rheaacharya11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

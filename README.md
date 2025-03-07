@@ -3,7 +3,7 @@
 I adore solving problems, creating delightful products, and leveraging technology for good.
 
 I'm currently...  
- ✨ coding in Python for my ML fairness research  
+ ✨ coding in Python and Bash for my ML fairness research  
  ✨ coding in C++ for my Systems Programming class  
  ✨ coding in p5.js to make interactive data visualizations & games  
  ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)

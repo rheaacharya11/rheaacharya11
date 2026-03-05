@@ -3,7 +3,7 @@
 I adore solving problems, creating delightful products, and leveraging technology for good.
 
 I'm currently...  
-✨ coding in Spark and Typescript on Data-driven Tools for Fortune 500 Clients          
+✨ coding in Spark and Typescript on data-driven Tools for Fortune 500 Clients          
 ✨ coding in Python & Bash for AI Research Projects              
 ✨ coding in p5.js to make interactive data visualizations & games                   
 ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)

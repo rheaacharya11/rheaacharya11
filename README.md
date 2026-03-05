@@ -3,10 +3,10 @@
 I adore solving problems, creating delightful products, and leveraging technology for good.
 
 I'm currently...  
- ✨ coding in Spark and Typescript on Data-driven Tools for Fortune 500 Clients
- ✨ coding in Python & Bash for AI Research Projects
- ✨ coding in p5.js to make interactive data visualizations & games  
- ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)
+ - ✨ coding in Spark and Typescript on Data-driven Tools for Fortune 500 Clients
+ -  ✨ coding in Python & Bash for AI Research Projects
+ - ✨ coding in p5.js to make interactive data visualizations & games  
+ - ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)
 
 <!--
 **rheaacharya11/rheaacharya11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## Hi friends! I'm Rhea. 🌱
+## Hi friends! I'm Rhea, a maker based out of NYC. 🌱
 
 I adore solving problems, creating delightful products, and leveraging technology for good.
 

@@ -1,9 +1,9 @@
-## Hi friends! I'm Rhea, a creative engineer based out of NYC. 🌱
+## Hi friends! I'm Rhea 🌱
 
-I adore solving problems, creating delightful products, and leveraging technology for good.
+I adore using data to better understand & model the world & technology to make impactful products.
 
 I'm currently...  
-✨ coding in Spark and Typescript on data-driven tools for Fortune 500 Clients          
+✨ coding in Spark & Typescript on data-driven tools for Fortune 500 Clients          
 ✨ coding in Python & Bash for AI Research Projects              
 ✨ coding in p5.js to make interactive data visualizations & games                   
 ✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)

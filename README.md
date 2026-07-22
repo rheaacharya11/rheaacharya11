@@ -1,6 +1,6 @@
 ## Hi friends! I'm Rhea 🌱
 
-I adore using data to better understand & model the world & technology to make impactful products.
+I adore using data to better understand & model the world, and using technology to make impactful products.
 
 I'm currently...  
 ✨ coding in Spark & Typescript on data-driven tools for Fortune 500 Clients          

@@ -6,7 +6,7 @@ I'm currently...
 ✨ coding in Spark & Typescript on data-driven tools for Fortune 500 Clients          
 ✨ coding in Python & Bash for AI Research Projects              
 ✨ coding in p5.js to make interactive data visualizations & games                   
-✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.com](rheaacharya.com)
+✨ coding in HTML/CSS/Javascript to work on my personal website: [rheaacharya.studio](rheaacharya.studio)
 
 <!--
 **rheaacharya11/rheaacharya11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
